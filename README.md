@@ -17,7 +17,7 @@ Saldo akan otomatis diperbarui setiap kali transaksi baru ditambahkan atau dihap
 
 | Sebelum Ada Transaksi | Setelah Ada Transaksi |
 |---|---|
-| ![SebelC:\Users\hpsn\OneDrive\Desktop\praktik dompetku\praktikdompetku\assets\sebelum ada transaksi.jpegum](./assets/sebelum%20ada%20transaksi.jpeg) | ![SesuC:\Users\hpsn\OneDrive\Desktop\praktik dompetku\praktikdompetku\assets\sesudah ada transaksi.jpegdah](./assets/sesudah%20ada%20transaksi.jpeg) |
+| ![Sebelum](./assets/sebelum ada transaksi.jpeg) | ![Sesudah](./assets/sesudah%20ada%20transaksi.jpeg) |
 
 
 ---
