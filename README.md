@@ -15,9 +15,9 @@ Saldo akan otomatis diperbarui setiap kali transaksi baru ditambahkan atau dihap
 
 ## 📸 Screenshot Aplikasi
 
-| Tampilan Utama | Setelah Tambah Transaksi |
+| sebelum ada transaksi | setelah tambah transaksi |
 |:-:|:-:|
-| ![alt text](C:\Users\hpsn\OneDrive\Desktop\praktik dompetku\praktikdompetku\sebelum.jpeg) | ![alt text](C:\Users\hpsn\OneDrive\Desktop\praktik dompetku\praktikdompetku\sesudah.jpeg) |
+| ![alt text](./assets/sebelum.jpeg) | ![alt text](./assets/sesudah.jpeg) |
 
 ---
 
