@@ -65,7 +65,7 @@ npm install -g expo-cli
 
 ```bash
 # 1. Masuk ke folder project
-cd dompetku
+cd praktikdompetku
 
 # 2. Install dependencies
 npm install
