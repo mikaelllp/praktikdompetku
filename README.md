@@ -17,7 +17,7 @@ Saldo akan otomatis diperbarui setiap kali transaksi baru ditambahkan atau dihap
 
 | Tampilan Dashboard | Riwayat Transaksi |
 |sebelum ada transaksi|setelah ada transaksi|
-| *(c:\Users\hpsn\Downloads\praktikk.jpeg)* | *(praktik.jpeg)* |
+| *(praktikk.jpeg)* | *(praktik.jpeg)* |
 
 ---
 
