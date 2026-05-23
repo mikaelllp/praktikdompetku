@@ -17,7 +17,7 @@ Saldo akan otomatis diperbarui setiap kali transaksi baru ditambahkan atau dihap
 
 | sebelum ada transaksi | setelah tambah transaksi |
 |:-:|:-:|
-| ![alt text](./assets/sebelum.jpeg) | ![alt text](./assets/sesudah.jpeg) |
+| ![alt text]("./assets/sebelum.jpeg" width="300") | ![alt text]("./assets/sesudah.jpeg" width="300") |
 
 ---
 
